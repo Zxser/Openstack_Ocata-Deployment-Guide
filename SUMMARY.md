@@ -16,4 +16,5 @@
   * [4.2.安装OpenStack命令行工具](4openstackming-ling-xing-gong-ju/42an-zhuang-openstack-ming-ling-xing-gong-ju.md)
   * [4.3.查看某个命令行客户端的版本号](4openstackming-ling-xing-gong-ju/43cha-kan-mou-ge-ming-ling-xing-ke-hu-duan-de-ban-ben-hao.md)
   * [4.4.用OpenStack RC文件设置环境变量](4openstackming-ling-xing-gong-ju/44yong-openstack-rc-wen-jian-she-zhi-huan-jing-bian-liang.md)
+  * [4.5.管理镜像](4openstackming-ling-xing-gong-ju/45guan-li-jing-xiang.md)
 
