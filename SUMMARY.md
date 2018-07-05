@@ -9,4 +9,5 @@
 * [3.4.创建和管理实例](34chuang-jian-he-guan-li-shi-li.md)
 * [3.5.创建和管理网络](35chuang-jian-he-guan-li-wang-luo.md)
 * [3.6.创建和管理对象容器](36chuang-jian-he-guan-li-dui-xiang-rong-qi.md)
+* [3.7.创建和管理卷](37chuang-jian-he-guan-li-juan.md)
 
