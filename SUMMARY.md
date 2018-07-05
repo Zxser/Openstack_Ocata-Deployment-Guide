@@ -19,4 +19,7 @@
   * [4.5.管理镜像](4openstackming-ling-xing-gong-ju/45guan-li-jing-xiang.md)
   * [4.6.管理卷](4openstackming-ling-xing-gong-ju/46guan-li-juan.md)
   * [4.7.管理共享](4openstackming-ling-xing-gong-ju/47guan-li-gong-xiang.md)
+  * [4.8.为实例设置权限和安全选项](4openstackming-ling-xing-gong-ju/48wei-shi-li-she-zhi-quan-xian-he-an-quan-xuan-xiang.md)
+  * [4.9.创建实例](4openstackming-ling-xing-gong-ju/49chuang-jian-shi-li.md)
+  * [4.10.管理实例和主机](4openstackming-ling-xing-gong-ju/410guan-li-shi-li-he-zhu-ji.md)
 
