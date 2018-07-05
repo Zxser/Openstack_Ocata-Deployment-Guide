@@ -27,4 +27,5 @@
   * [4.13.将元数据存储在配置盘中](413jiang-yuan-shu-ju-cun-chu-zai-pei-zhi-pan-zhong.md)
   * [4.14.创建和管理网络](414chuang-jian-he-guan-li-wang-luo.md)
   * 4.15.管理对象和容器
+* [5.Opentack\_Ocata版本的部署](opentackocata-ban-ben-de-bu-shu.md)
 
