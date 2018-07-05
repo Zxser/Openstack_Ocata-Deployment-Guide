@@ -18,4 +18,5 @@
   * [4.4.用OpenStack RC文件设置环境变量](4openstackming-ling-xing-gong-ju/44yong-openstack-rc-wen-jian-she-zhi-huan-jing-bian-liang.md)
   * [4.5.管理镜像](4openstackming-ling-xing-gong-ju/45guan-li-jing-xiang.md)
   * [4.6.管理卷](4openstackming-ling-xing-gong-ju/46guan-li-juan.md)
+  * [4.7.管理共享](4openstackming-ling-xing-gong-ju/47guan-li-gong-xiang.md)
 
