@@ -1,12 +1,12 @@
-# OpenStack用户文档（简体中文版） {#openstack最终用户文档（简体中文版）}
+# OpenStack用户文档（简体中文版）
 
-#### 摘要 {#摘要}
+#### 摘要
 
 OpenStack是一个开源的云计算平台，可以用在公有云和私有云上。若干互相关联的项目结合成了这样一整套的云基础设施解决方案。本文档向OpenStack最终用户介绍了如何用OpenStack dashboard和OpenStack命令行工具在OpenStack云上创建和管理资源。
 
 本文档涵盖了OpenStack Liberty，OpenStack Ocata，OpenStack Kilo和OpenStack Juno这三个版本。
 
-#### 目录 {#目录}
+#### 目录
 
 * Conventions
   * Notices
